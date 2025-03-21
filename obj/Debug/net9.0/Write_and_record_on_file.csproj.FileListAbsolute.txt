@@ -1,0 +1,14 @@
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\bin\Debug\net9.0\Write_and_record_on_file.exe
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\bin\Debug\net9.0\Write_and_record_on_file.deps.json
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\bin\Debug\net9.0\Write_and_record_on_file.runtimeconfig.json
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\bin\Debug\net9.0\Write_and_record_on_file.dll
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\bin\Debug\net9.0\Write_and_record_on_file.pdb
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\Write_and_record_on_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\Write_and_record_on_file.AssemblyInfoInputs.cache
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\Write_and_record_on_file.AssemblyInfo.cs
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\Write_and_record_on_file.csproj.CoreCompileInputs.cache
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\Write_and_record_on_file.dll
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\refint\Write_and_record_on_file.dll
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\Write_and_record_on_file.pdb
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\Write_and_record_on_file.genruntimeconfig.cache
+C:\Users\kitburg\Documents\code\C#\Write_and_record_on_file\obj\Debug\net9.0\ref\Write_and_record_on_file.dll
