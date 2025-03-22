@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Write_and_record_on_file")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d943da0093696f2ba4d0198c143838eb6742348")]
 [assembly: System.Reflection.AssemblyProductAttribute("Write_and_record_on_file")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Write_and_record_on_file")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
