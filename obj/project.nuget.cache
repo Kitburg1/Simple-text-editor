@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OmFD1xncVAg=",
+  "dgSpecHash": "HSXMWUPxLUATICEpyQ7yUFh0y2BVnyiw1HqQKard3OBxgkf37/Musb8kqAuG8OK8pfqWM7gVbbI7PqRafIqzeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kitburg\\Documents\\code\\C#\\Write_and_record_on_file\\Write_and_record_on_file.csproj",
+  "projectFilePath": "/home/kitburg/Simple-text-editor/Write_and_record_on_file.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
